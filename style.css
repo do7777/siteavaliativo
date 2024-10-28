@@ -1,0 +1,55 @@
+body {
+margin:0;
+text-align: center;
+}
+img {
+width: 700px;
+height: 500px;
+border-style:groove ;
+border-radius: 300px;
+border-color:white;
+}
+h1{
+font-size: 45px;
+color:blue;
+font-family: "Kablammo", system-ui;
+}
+h2 { font-size: 30px;
+color:black;
+font-family: "Kablammo", system-ui;
+}
+h3 {
+font-size: 20px;
+color:rgb(35, 7, 189);
+font-family: "Kablammo", system-ui;
+}
+.myNavbar {
+    position:sticky;
+    top:0;
+    z-index:9;
+}
+.parallax-inner {
+    vertical-align: middle;
+}
+#microsoft iframe{
+    width:80%;
+    height:75%;
+}
+.links:hover {
+    font-size: 30px;
+}
+#inicio{
+    background:linear-gradient(bisque)
+}
+#sobre{
+    background:linear-gradient( bisque)
+}
+#informação{
+    background:linear-gradient( bisque)
+}
+#videos{
+    background:linear-gradient( bisque)
+}
+#microsoft{
+    background:linear-gradient( bisque)
+}
